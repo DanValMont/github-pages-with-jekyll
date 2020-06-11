@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to my first blog post!"
+title: "Welcome to my first blog post"
 date: 2020-06-10
 ---
 
